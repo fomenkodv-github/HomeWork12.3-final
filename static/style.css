@@ -1,7 +1,5 @@
-/* Селекторы по тегам */
-
 body {
-    font-family: arial;
+    font-family: arial, serif;
     font-size: 18px;
 }
 
@@ -16,7 +14,7 @@ hr {
 
 select {
     padding: 7px 6px;
-    background-color: #ddd;
+    background-color: #dddddd;
     border:none;
     border-radius: 4px;
     font-size: 18px;
@@ -45,10 +43,9 @@ a {
     font-size: 16px;
 }
 
-/* Селекторы по классам */
 
 .button {
-    background-color: #ddd;
+    background-color: #dddddd;
     padding: 8px 16px;
     text-decoration: none;
     color: black;
